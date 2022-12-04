@@ -13,4 +13,4 @@
 ### Description:
 1. A set of Images of cotton leaf and plant have been taken and are been divided into 4 classes.
 2. This Classification Problem is solved by Deep Learning technique CNN  architecture of different optimizers, loss and dropout layers.
-3. Later same images were trained with trained with Transfer Learning technique(InceptionV3) which it can train deep neural networks with fewe data .
+3. Later same images were trained with Transfer Learning technique(InceptionV3) which it can train deep neural networks with fewe data .
